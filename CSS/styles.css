@@ -168,7 +168,8 @@ a {
   width: 64%;
   float: left;
   margin-left: 30px;
-  margin-right: 3px;
+  /* margin-right: 3px; */
+  margin-right: 9px;
 }
 
 .Cricket_header {
