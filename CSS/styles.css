@@ -169,7 +169,8 @@ a {
   float: left;
   margin-left: 30px;
   /* margin-right: 3px; */
-  margin-right: 9px;
+  /* margin-right: 9px; */
+  margin-right: 39px;
 }
 
 .Cricket_header {
@@ -184,7 +185,8 @@ a {
   text-align: left;
   line-height: 3;
   font-size: 120%;
-  margin-top: 85px;
+  /* margin-top: 85px; */
+  margin-top: 30px;
 }
 
 .Cricket_Bio:hover {
@@ -404,7 +406,8 @@ a {
   text-align: left;
   line-height: 2.5;
   font-size: 120%;
-  margin-top: 70px;
+  /* margin-top: 70px; */
+  margin-top: 35px;
 }
 
 .html_Bio:hover{
